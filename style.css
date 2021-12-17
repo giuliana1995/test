@@ -1,0 +1,33 @@
+main {
+    background-color: white;
+    display: flex;
+}
+
+aside {
+    background-color: gray;
+    width: 80px;
+    height: 100vh;
+}
+
+aside>div {
+    background-color: white;
+    width: 60%;
+    height: 5%;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.content>nav {
+    background-color: rgb(102, 95, 95);
+    width: 40vw;
+    height: 10%;
+    margin: auto;
+}
+
+.ball {
+    width: 60px;
+    height: 60px;
+    border-radius: 80%;
+    background-color: lightgray;
+
+}
